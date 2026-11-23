@@ -1,0 +1,10 @@
+node_modules/
+**/node_modules/
+**/.env
+**/.env.*
+**/data_backup.json
+**/.expo/
+**/dist/
+**/build/
+**/web-build/
+*.log

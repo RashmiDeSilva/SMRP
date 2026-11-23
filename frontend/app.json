@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "SMRP Nestora",
+    "slug": "smrp-nestora",
+    "description": "Find, book, and manage student boarding, reservations, and rent payments with SMRP Nestora.",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/nestora_app_icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F8F4FF",
+        "foregroundImage": "./assets/nestora_icon_foreground.png",
+        "monochromeImage": "./assets/nestora_icon_monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/nestora_favicon.png",
+      "name": "SMRP Nestora",
+      "shortName": "SMRP",
+      "lang": "en",
+      "description": "Find student boarding, manage bookings, and track rent payments.",
+      "themeColor": "#6D28D9",
+      "backgroundColor": "#F8FAFC"
+    }
+  }
+}
